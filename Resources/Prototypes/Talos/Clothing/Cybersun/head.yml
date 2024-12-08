@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadCapCybersun
-  name: helmet
-  description: Standard security gear. Protects the head from impacts.
+  name: Кепка Cybersun
+  description: Белая кепка с острым козырьком. Похоже, что она была уже раньше кем-то ношенной.
   components:
   - type: Sprite
     sprite: Talos/Clothing/Head/Cybersun/cap.rsi
